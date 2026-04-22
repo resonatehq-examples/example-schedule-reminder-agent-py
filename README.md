@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Schedule Reminder Agent — Resonate example" />
+</p>
+
 # Reminder AI Assistant | Resonate Example Application
 
 **Dead Simple Autonomous Agents with Resonate's Distributed Async Await**
