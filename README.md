@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+    <img alt="Schedule Reminder Agent — Resonate example" src="./assets/banner-dark.png">
+  </picture>
+</p>
+
 # Reminder AI Assistant | Resonate Example Application
 
 **Dead Simple Autonomous Agents with Resonate's Distributed Async Await**
